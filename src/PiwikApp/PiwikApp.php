@@ -16,7 +16,11 @@ class PiwikApp
      * @var PiwikClient\PiwikClient
      */
     protected $piwikClient;
-    
+
+    protected static $bracketedParams = array(
+        'urls'
+    );
+
     /**
      * Parameters set for SitesManager.addSite method. Order matters.
      * @var array An indexed array of parameter names
@@ -112,7 +116,7 @@ class PiwikApp
             $params = array();
             foreach ($site as $k => $v) {
                 if (empty($v)) continue;
-                $params[self::$siteAddParameterKeys[$k]] = strpos($v, '|') !== FALSE ? explode('|', $v) : $v;
+                $params[in_array(self::$siteAddParameterKeys[$k],self::$bracketedParams) ? self::$siteAddParameterKeys[$k] . '[]' : self::$siteAddParameterKeys[$k]] = strpos($v, '|') !== FALSE ? explode('|', $v) : $v;
             }
             if (empty($params)) continue;
 
