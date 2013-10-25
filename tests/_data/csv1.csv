@@ -1,0 +1,21 @@
+Site name;Site Url;eCommerce enabled;Site search enabled;Search keyword parameters;Search category parameters;Excluded IPs;Excluded query parameters;Timezone;Currency;Group;Start date;Excluded user agents;Keep URL fragments
+Example site 1;http://example.com|https://www.example.com;1;1;q|query|s|search|searchword|k|keyword;category 1|category 2;127.0.*.*|192.168.*.*;token|sessid;UTC+3;EUR;The group name;01.01.2013 10:00;;1
+Example site 2;http://example.com|https://www.example.com;1;1;q|query|s|search|searchword|k|keyword;category 1|category 2;127.0.*.*|192.168.*.*;token|sessid;UTC+3;EUR;The group name;01.01.2013 10:00;;1
+Example site 3;http://example.com|https://www.example.com;1;1;q|query|s|search|searchword|k|keyword;category 1|category 2;127.0.*.*|192.168.*.*;token|sessid;UTC+3;EUR;The group name;01.01.2013 10:00;;1
+Example site 4;http://example.com|https://www.example.com;1;1;q|query|s|search|searchword|k|keyword;category 1|category 2;127.0.*.*|192.168.*.*;token|sessid;UTC+3;EUR;The group name;01.01.2013 10:00;;1
+Example site 5;http://example.com|https://www.example.com;1;1;q|query|s|search|searchword|k|keyword;category 1|category 2;127.0.*.*|192.168.*.*;token|sessid;UTC+3;EUR;The group name;01.01.2013 10:00;;1
+Example site 6;http://example.com|https://www.example.com;1;1;q|query|s|search|searchword|k|keyword;category 1|category 2;127.0.*.*|192.168.*.*;token|sessid;UTC+3;EUR;The group name;01.01.2013 10:00;;1
+Example site 7;http://example.com|https://www.example.com;1;1;q|query|s|search|searchword|k|keyword;category 1|category 2;127.0.*.*|192.168.*.*;token|sessid;UTC+3;EUR;The group name;01.01.2013 10:00;;1
+Example site 8;http://example.com|https://www.example.com;1;1;q|query|s|search|searchword|k|keyword;category 1|category 2;127.0.*.*|192.168.*.*;token|sessid;UTC+3;EUR;The group name;01.01.2013 10:00;;1
+Example site 9;http://example.com|https://www.example.com;1;1;q|query|s|search|searchword|k|keyword;category 1|category 2;127.0.*.*|192.168.*.*;token|sessid;UTC+3;EUR;The group name;01.01.2013 10:00;;1
+Example site 10;http://example.com|https://www.example.com;1;1;q|query|s|search|searchword|k|keyword;category 1|category 2;127.0.*.*|192.168.*.*;token|sessid;UTC+3;EUR;The group name;01.01.2013 10:00;;1
+Example site 11;http://example.com|https://www.example.com;1;1;q|query|s|search|searchword|k|keyword;category 1|category 2;127.0.*.*|192.168.*.*;token|sessid;UTC+3;EUR;The group name;01.01.2013 10:00;;1
+Example site 12;http://example.com|https://www.example.com;1;1;q|query|s|search|searchword|k|keyword;category 1|category 2;127.0.*.*|192.168.*.*;token|sessid;UTC+3;EUR;The group name;01.01.2013 10:00;;1
+Example site 13;http://example.com|https://www.example.com;1;1;q|query|s|search|searchword|k|keyword;category 1|category 2;127.0.*.*|192.168.*.*;token|sessid;UTC+3;EUR;The group name;01.01.2013 10:00;;1
+Example site 14;http://example.com|https://www.example.com;1;1;q|query|s|search|searchword|k|keyword;category 1|category 2;127.0.*.*|192.168.*.*;token|sessid;UTC+3;EUR;The group name;01.01.2013 10:00;;1
+Example site 15;http://example.com|https://www.example.com;1;1;q|query|s|search|searchword|k|keyword;category 1|category 2;127.0.*.*|192.168.*.*;token|sessid;UTC+3;EUR;The group name;01.01.2013 10:00;;1
+Example site 16;http://example.com|https://www.example.com;1;1;q|query|s|search|searchword|k|keyword;category 1|category 2;127.0.*.*|192.168.*.*;token|sessid;UTC+3;EUR;The group name;01.01.2013 10:00;;1
+Example site 17;http://example.com|https://www.example.com;1;1;q|query|s|search|searchword|k|keyword;category 1|category 2;127.0.*.*|192.168.*.*;token|sessid;UTC+3;EUR;The group name;01.01.2013 10:00;;1
+Example site 18;http://example.com|https://www.example.com;1;1;q|query|s|search|searchword|k|keyword;category 1|category 2;127.0.*.*|192.168.*.*;token|sessid;UTC+3;EUR;The group name;01.01.2013 10:00;;1
+Example site 19;http://example.com|https://www.example.com;1;1;q|query|s|search|searchword|k|keyword;category 1|category 2;127.0.*.*|192.168.*.*;token|sessid;UTC+3;EUR;The group name;01.01.2013 10:00;;1
+Example site 20;http://example.com|https://www.example.com;1;1;q|query|s|search|searchword|k|keyword;category 1|category 2;127.0.*.*|192.168.*.*;token|sessid;UTC+3;EUR;The group name;01.01.2013 10:00;;1

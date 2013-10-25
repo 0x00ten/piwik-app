@@ -1,5 +1,5 @@
 {
-    "name": "0x00ten/piwik-csv",
+    "name": "0x00ten/piwik-app",
     "description": "Import sites from CSV to Piwik",
     "license": "proprietary",
     "authors": [
@@ -19,5 +19,11 @@
             "type": "vcs",
             "url": "https://github.com/0x00ten/piwik-client.git"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-0": {
+            "PiwikApp\\": "src/",
+            "PiwikAppTest\\": "tests/"
+        }
+    }
 }
